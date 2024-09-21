@@ -1,2 +1,2 @@
-Nombre: Adrian David Gonzalez Romero
+Nombre: Adrian David Gonzalez Romero,
 Primer taller de JavaScript.
